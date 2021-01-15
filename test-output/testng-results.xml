@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6445" started-at="2020-12-10T19:28:38Z" finished-at="2020-12-10T19:28:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6445" started-at="2020-12-10T19:28:38Z" finished-at="2020-12-10T19:28:45Z">
+      <class name="DynamicJson">
+        <test-method status="PASS" signature="addbook(java.lang.String, java.lang.String)[pri:0, instance:DynamicJson@4b952a2d]" name="addbook" duration-ms="4790" started-at="2020-12-11T00:58:38Z" data-provider="BooksData" finished-at="2020-12-11T00:58:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dfrfff]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[54888]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addbook -->
+        <test-method status="PASS" signature="addbook(java.lang.String, java.lang.String)[pri:0, instance:DynamicJson@4b952a2d]" name="addbook" duration-ms="395" started-at="2020-12-11T00:58:43Z" data-provider="BooksData" finished-at="2020-12-11T00:58:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dvvvv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[58885]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addbook -->
+        <test-method status="PASS" signature="addbook(java.lang.String, java.lang.String)[pri:0, instance:DynamicJson@4b952a2d]" name="addbook" duration-ms="1199" started-at="2020-12-11T00:58:44Z" data-provider="BooksData" finished-at="2020-12-11T00:58:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rrttt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[65652]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addbook -->
+      </class> <!-- DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
